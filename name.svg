@@ -3,8 +3,12 @@
     xmlns="http://www.w3.org/2000/svg" width="800" height="300">
     <defs>
         <style type="text/css">
-            @import url(http://fonts.googleapis.com/css?family=Fira+Sans);
+            @import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
 
+            text {
+                font-family: "Be Vietnam Pro", sans-serif;
+            }
+            
             #full-name {
                 text-shadow: 0 6px 8px #0008;
                 font-weight: 100;
